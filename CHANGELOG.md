@@ -1,5 +1,31 @@
 # Changelog
 
+## [1.1.0](https://www.github.com/googleapis/java-filestore/compare/v1.0.2...v1.1.0) (2021-09-02)
+
+
+### Features
+
+* Remove use of deprecated gradle command in java README ([#1196](https://www.github.com/googleapis/java-filestore/issues/1196)) ([#49](https://www.github.com/googleapis/java-filestore/issues/49)) ([fba0af9](https://www.github.com/googleapis/java-filestore/commit/fba0af90c32eea148ef9c602aafb6e9e03264e41))
+
+
+### Dependencies
+
+* update dependency com.google.cloud:google-cloud-shared-dependencies to v2.2.0 ([#52](https://www.github.com/googleapis/java-filestore/issues/52)) ([9a51467](https://www.github.com/googleapis/java-filestore/commit/9a514670a50443cf3930fd9991f8d8f89e77879d))
+
+### [1.0.2](https://www.github.com/googleapis/java-filestore/compare/v1.0.1...v1.0.2) (2021-08-23)
+
+
+### Dependencies
+
+* update dependency com.google.cloud:google-cloud-shared-dependencies to v2.1.0 ([#43](https://www.github.com/googleapis/java-filestore/issues/43)) ([0f4487e](https://www.github.com/googleapis/java-filestore/commit/0f4487eae35722bbc7c8440e64385a475073b243))
+
+### [1.0.1](https://www.github.com/googleapis/java-filestore/compare/v1.0.0...v1.0.1) (2021-08-12)
+
+
+### Dependencies
+
+* update dependency com.google.cloud:google-cloud-shared-dependencies to v2.0.1 ([#37](https://www.github.com/googleapis/java-filestore/issues/37)) ([63ffb07](https://www.github.com/googleapis/java-filestore/commit/63ffb07af48592839e76d33f500422e987d259e8))
+
 ## [1.0.0](https://www.github.com/googleapis/java-filestore/compare/v0.1.0...v1.0.0) (2021-08-10)
 
 
