@@ -30,5 +30,6 @@ deep-copy-regex:
 - source: "/google/cloud/filestore/(v.*)/.*-java/grpc-google-.*/src"
   dest: "/owl-bot-staging/$1/grpc-google-cloud-filestore-$1/src"
 - source: "/google/cloud/filestore/(v.*)/.*-java/gapic-google-.*/src"
-  dest: "/owl-bot-staging/$1/google-cloud-filestore/src"- source: "/google/cloud/dataproc/(v.*)/.*-java/samples/snippets/generated"
+  dest: "/owl-bot-staging/$1/google-cloud-filestore/src"
+- source: "/google/cloud/filestore/(v.*)/.*-java/samples/snippets/generated"
   dest: "/owl-bot-staging/$1/samples/snippets/generated"
