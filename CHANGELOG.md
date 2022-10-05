@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.6](https://github.com/googleapis/java-filestore/compare/v1.4.5...v1.4.6) (2022-10-05)
+
+
+### Bug Fixes
+
+* update protobuf to v3.21.7 ([c7a064a](https://github.com/googleapis/java-filestore/commit/c7a064a81dec96958d847d0abec0a853173d3210))
+
 ## [1.4.5](https://github.com/googleapis/java-filestore/compare/v1.4.4...v1.4.5) (2022-10-03)
 
 
